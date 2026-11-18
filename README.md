@@ -51,7 +51,9 @@
 ###
 
 <div data-importer="music" align="center">
-https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31iwfz64psq5cesoo6ip7yfezbra&theme=spotify&count=4&width=570&radius=40&duration=1&album=1&profile=footer-right
+  <a href="https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iwfz64psq5cesoo6ip7yfezbra&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
