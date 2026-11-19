@@ -15,6 +15,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="terraform logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="angularjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
@@ -24,8 +26,6 @@
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="angularjs logo"  />
 </div>
 
 ###
